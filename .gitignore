@@ -1,2 +1,5 @@
 /target
+/coverage
+/logs
+/_development-tools
 /.vscode
